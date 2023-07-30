@@ -58,7 +58,7 @@ axios
 ### Instalando
 ```bash
 # Clone repositório
-git clone https://github.com/Adrianaramss/front-restaurante.git
+git clone https://github.com/Adrianaramss/suply-teste.git
 
 # Instalando dependências
 npm install
