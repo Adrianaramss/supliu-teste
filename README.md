@@ -50,7 +50,7 @@ axios
 
 
 # 🔗 Deploy projeto
-- Deploy Vercel: [Clique aqui!](https://suply-teste-i1344gjh1-adrianaramss.vercel.app/)
+- Deploy Vercel: [Clique aqui!](https://suply-teste-7xh50xryn-adrianaramss.vercel.app/)
 
 
 
