@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 📖 Sobre o projeto
+O projeto "Gerenciador de Discografia Tião Carreiro e Pardinho" é uma interface acessível desenvolvida para um navegador web que permite ao usuário gerenciar a discografia da dupla caipira Tião Carreiro e Pardinho. A interface oferece várias funcionalidades que facilitam a administração dos álbuns e faixas da dupla
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🎯Objetivo 
+O objetivo  do projeto "Gerenciador de Discografia Tião Carreiro e Pardinho" é criar uma interface acessível através de um navegador web que permita aos usuários administrarem a discografia da dupla.
 
-## Available Scripts
+# 📱Layout 
 
-In the project directory, you can run:
+- Tela de ver listas Álbuns e faixas
 
-### `npm start`
+![Captura de tela 2023-07-30 163447](https://github.com/Adrianaramss/suply-teste/assets/111310311/e615b29c-d9d7-4bcc-9e55-c09a17ac4cb6)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 
+  </br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  - Tela de criar Álbum e adicionar faixa
+  
+  ![Captura de tela 2023-07-30 163506](https://github.com/Adrianaramss/suply-teste/assets/111310311/b1b20b3f-6776-4796-99b5-1030a7d3b1d2)
 
-### `npm test`
+ 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - Tela de deletar Álbuns e faixas 
+  
+![Captura de tela 2023-07-30 163526](https://github.com/Adrianaramss/suply-teste/assets/111310311/8b1fcad7-a998-4fdf-923e-68d62b3a3000)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 🚀 Funcionalidades
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✅ Pesquisar álbum <br>
+✅ Adicionar álbum e faixa <br>
+✅ Deletar álbum e faixa <br>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 💻 Tecnologias utilizadas no Projeto
+- JavaScript
+- css
+- html
+- React
+- hooks (useState e useEffect)
+- styled-components
+- integração de API 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Bibliotecas Utilizadas
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+styled-components
+axios
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# 🔗 Deploy projeto
+- Deploy Vercel: [Clique aqui!](https://suply-teste-i1344gjh1-adrianaramss.vercel.app/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# 🛰Executar o projeto localmente
+### Instalando
+```bash
+# Clone repositório
+git clone https://github.com/Adrianaramss/front-restaurante.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Instalando dependências
+npm install
 
-### Analyzing the Bundle Size
+# executando o projeto
+npm run start
+```
+# 📫 Contato
+E-mail - adrianascosta9@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-ramss/)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
