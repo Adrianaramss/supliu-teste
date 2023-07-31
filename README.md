@@ -8,20 +8,20 @@ O objetivo  do projeto "Gerenciador de Discografia Tião Carreiro e Pardinho" é
 
 - Tela de ver listas Álbuns e faixas
 
-![Captura de tela 2023-07-30 163447](https://github.com/Adrianaramss/suply-teste/assets/111310311/e615b29c-d9d7-4bcc-9e55-c09a17ac4cb6)
 
- 
+ ![Captura de tela 2023-07-30 163447](https://github.com/Adrianaramss/supliu-teste/assets/111310311/e5044c56-c1f9-404f-b760-1ab1138fc9f3)
+
   </br>
 
   - Tela de criar Álbum e adicionar faixa
-  
-  ![Captura de tela 2023-07-30 163506](https://github.com/Adrianaramss/suply-teste/assets/111310311/b1b20b3f-6776-4796-99b5-1030a7d3b1d2)
 
- 
+ ![Captura de tela 2023-07-30 163506](https://github.com/Adrianaramss/supliu-teste/assets/111310311/f4eb0f39-15c4-4244-a9a2-f106b8cc1775)
+
 
   - Tela de deletar Álbuns e faixas 
   
-![Captura de tela 2023-07-30 163526](https://github.com/Adrianaramss/suply-teste/assets/111310311/8b1fcad7-a998-4fdf-923e-68d62b3a3000)
+
+![Captura de tela 2023-07-30 163526](https://github.com/Adrianaramss/supliu-teste/assets/111310311/c8e48771-09cd-4cf5-9f12-cb955772c1bb)
 
 
 
