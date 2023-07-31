@@ -33,15 +33,15 @@ export const Gradiente = styled.div`
 export const Texto = styled.p`
   font-size: 20px;
   color: #696969;
-  margin-right: 740px;
-  margin-top: 150px;
+  margin-right: 380px;
+  margin-top: 180px;
 `;
 
 export const Input = styled.input`
   font-size: 16px;
   padding: 18px;
   border: 1px solid #ccc;
-  width: 750px;
+  width: 400px;
   margin-top: 10px;
   border-radius: 30px;
 `;
@@ -73,7 +73,7 @@ export const Buttoncriaralbumefaixa = styled.button`
 export const Listaalbumefaixa = styled.div`
   margin-top: 40px;
   margin-bottom: 250px;
-  margin-right: 550px;
+  margin-right: 350px;
   font-family: "Roboto";
 `;
 
@@ -122,7 +122,7 @@ export const HeaderGradiente = styled.div`
     color: #696969;
   }
 
-  @media (max-width: 1400px) {
+  @media (max-width: 1400px)   {
     flex-wrap: wrap;
     justify-content: center;
     .logo {
@@ -136,5 +136,7 @@ export const HeaderGradiente = styled.div`
       font-size: 2vw;
       text-align: center;
     }
+
+  
   }
 `;
