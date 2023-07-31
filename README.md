@@ -1,5 +1,5 @@
 # 📖 Sobre o projeto
-O projeto "Gerenciador de Discografia Tião Carreiro e Pardinho" é uma interface acessível desenvolvida para um navegador web que permite ao usuário gerenciar a discografia da dupla caipira Tião Carreiro e Pardinho. A interface oferece várias funcionalidades que facilitam a administração dos álbuns e faixas da dupla
+O projeto "Gerenciador de Discografia Tião Carreiro e Pardinho" é uma interface  desenvolvida para navegação web que permite ao usuário gerenciar a discografia da dupla caipira Tião Carreiro e Pardinho. A interface oferece várias funcionalidades que facilitam a administração dos álbuns e faixas da dupla
 
 # 🎯Objetivo 
 O objetivo  do projeto "Gerenciador de Discografia Tião Carreiro e Pardinho" é criar uma interface acessível através de um navegador web que permita aos usuários administrarem a discografia da dupla.
