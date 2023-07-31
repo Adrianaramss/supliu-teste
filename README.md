@@ -47,7 +47,9 @@ O objetivo  do projeto "Gerenciador de Discografia Tião Carreiro e Pardinho" é
 styled-components
 axios
 ```
+# 🔗 Documentação Postman
 
+https://documenter.getpostman.com/view/24460801/2s93kz55AE
 
 # 🔗 Deploy projeto
 - Deploy Vercel: [Clique aqui!](https://suply-teste-mckv02jxk-adrianaramss.vercel.app/)
